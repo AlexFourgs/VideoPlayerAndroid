@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayoutMenu1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Server Button -->
+    <Button android:id="@+id/btnServer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="Server"
+        android:onClick="chooseServer"
+        android:layout_weight="0.5" />
+
+    <!-- Client Button -->
+    <Button
+        android:id="@+id/btnClient"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="Client"
+        android:onClick="chooseClient"
+        android:layout_weight="0.5" />
+</LinearLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/alex/.android/build-cache/0b10c968c09a5857e3408e32bb08a1b80f65db3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/alex/Documents/Cours/Master/M2/java_embedded/NTM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc4363317192038bceab472c358f4c339ba2859e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/.android/build-cache/ac3a220401988b83416a93f31d6a9c9d8e1a96a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/alex/Documents/Cours/Master/M2/java_embedded/NTM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a89587f847eb6404b2d504fa9e8c26526331632/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Documents/Cours/Master/M2/java_embedded/NTM/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a6c7f2e9e83e7afe56e50b632fbe8d5da5369284">
+        <dex dex="/home/alex/Documents/Cours/Master/M2/java_embedded/NTM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad94eeeb4e8476bf8ffb3538c6b0582fefa6cfe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/.android/build-cache/bbd03636bd53e4e827c6e73ee179a8096a98e0f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/alex/Documents/Cours/Master/M2/java_embedded/NTM/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecc1e81275b50b23b39077ff5a339e59a561066b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alex/Documents/Cours/Master/M2/java_embedded/NTM/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/alex/Documents/Cours/Master/M2/java_embedded/NTM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_39497a72775ff2839e5c25c7779d4c72cda27067/classes.dex" />
+    </item>
+
+</items>

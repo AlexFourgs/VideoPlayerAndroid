@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+
+    <!-- Url filed -->
+    <EditText
+        android:id="@+id/field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textUri"/>
+
+    <!-- Download Button -->
+    <Button android:id="@+id/btnProgressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Download File"
+        android:layout_marginTop="5dip"/>
+
+    <TextView android:id="@+id/textView"
+        android:text="Downloaded file(s) :"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dip"/>
+
+    <!-- List view to show image after downloading -->
+    <ListView android:id="@+id/my_list"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:choiceMode="singleChoice"
+        android:layout_marginTop="5dip"/>
+
+    <!-- Stream Button -->
+    <Button android:id="@+id/btnStream"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stream" />
+
+    <!--<VideoView android:id="@+id/my_video"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />-->
+</LinearLayout>
